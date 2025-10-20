@@ -79,7 +79,7 @@ const handleLogin = async () => {
             width={24}
             height={24}
             className={styles.logo__modal}
-            src="/logo.svg"
+            src="/public/logo.svg"
             alt="logo"
           />
         </div>
